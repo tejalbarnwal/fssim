@@ -35,11 +35,11 @@
 #include "yaml-cpp/yaml.h"
 
 // Generators
-#include "gazebo_utils/include/noise.hpp"
+#include "../../gazebo_utils/include/noise.hpp"
 
 // Utilities
-#include "gazebo_utils/include/ros_utills.hpp"
-#include "gazebo_utils/include/gazebo_utills.hpp"
+#include "../../gazebo_utils/include/ros_utills.hpp"
+#include "../../gazebo_utils/include/gazebo_utills.hpp"
 
 namespace YAML {
 template<>

@@ -41,7 +41,7 @@
 #include "geometry_msgs/PoseWithCovarianceStamped.h"
 
 // Utills
-#include "gazebo_utils/include/gazebo_to_ros.hpp"
+#include "../../gazebo_utils/include/gazebo_to_ros.hpp"
 
 // ROS
 #include <tf/transform_datatypes.h>

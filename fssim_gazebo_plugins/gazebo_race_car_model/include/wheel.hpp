@@ -33,7 +33,7 @@
 #include <string>
 
 // FSSIM Include
-#include "gazebo_utils/include/gazebo_utills.hpp"
+#include "../../gazebo_utils/include/gazebo_utills.hpp"
 #include "config.hpp"
 #include "definitions.hpp"
 

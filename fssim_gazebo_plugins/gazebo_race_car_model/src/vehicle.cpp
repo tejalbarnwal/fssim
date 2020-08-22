@@ -25,7 +25,7 @@
  */
 
 #include "vehicle.hpp"
-#include "gazebo_utils/include/noise.hpp"
+#include "../../gazebo_utils/include/noise.hpp"
 
 namespace gazebo {
 namespace fssim {
